@@ -1,11 +1,13 @@
 # Fruit Catch Game
 
+p{
+	font-size: 1000;
+}
+
 <a href="https://simmer.io/@adimiko/fruitcatch">
-	<font size="100">
 		<p align="center">
 	  		<b>PLAY</b>
 		</p> 
-	</font>
 </a>
 
 ## Table of contents
