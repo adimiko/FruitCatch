@@ -1,5 +1,6 @@
 # Fruit Catch Game
 
+## [PLAY](https://simmer.io/@adimiko/fruitcatch)
 
 ## Table of contents
 * [General info](#general-info)
