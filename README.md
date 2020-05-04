@@ -1,6 +1,6 @@
 # Fruit Catch Game
 
-.markdown-preview {
+.markdown-preview.markdown-preview {
  p {
    font-size: 1000;
   }
