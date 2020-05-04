@@ -1,7 +1,9 @@
 # Fruit Catch Game
 
-p{
-	font-size: 1000;
+.markdown-preview {
+ p {
+   font-size: 1000;
+  }
 }
 
 <a href="https://simmer.io/@adimiko/fruitcatch">
