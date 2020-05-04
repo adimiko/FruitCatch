@@ -19,7 +19,7 @@ Project is created with:
 # About this game
 Player controls the fruit basket.  
 The goal is to catch as many fresh fruits as possible.  
-Among the falling fruits, 70% is for good fruit and 30% for bad fruit.  
+Among falling fruit, the probability for good fruit is 70% and 30% for bad.  
 As the game progresses, the difficulty level increases.  
 For each fresh fruit caught, the player receives points. 
 * Good apple: 5 points
