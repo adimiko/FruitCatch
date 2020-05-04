@@ -2,7 +2,7 @@
 
 <a href="https://simmer.io/@adimiko/fruitcatch">
 	<p align="center">
-	  <b><font size="+8">PLAY</font></b>
+	  <b><font size="100">PLAY</font></b>
 	</p>
 </a>
 
