@@ -1,16 +1,4 @@
-# Fruit Catch Game
-
-.markdown-preview.markdown-preview {
- p {
-   font-size: 1000;
-  }
-}
-
-<a href="https://simmer.io/@adimiko/fruitcatch">
-		<p align="center">
-	  		<b>PLAY</b>
-		</p> 
-</a>
+# [PLAY](https://simmer.io/@adimiko/fruitcatch)
 
 ## Table of contents
 * [General info](#general-info)
