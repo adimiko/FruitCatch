@@ -20,8 +20,16 @@ Project is created with:
 Player controls the fruit basket.  
 The goal is to catch as many fresh fruits as possible.  
 As the game progresses, the difficulty level increases.  
-For each fresh fruit caught, the player receives points.  
-For each stale fruit caught, the player receives negative points.  
+For each fresh fruit caught, the player receives points. 
+* Good apple: 5 points
+* Good banana: 10 points
+* Good pear: 10 points
+* Good strawberry: 5 points
+For each stale fruit caught, the player receives negative points.
+* Bad apple: -5 points
+* Bad banana: -10 points
+* Bad pear: -10 points
+* Bad strawberry: -5 points
 The player has 3 hearts.  
 If the player does not catch fresh fruit, he loses his heart.  
 When the player loses all hearts, the game ends.  
