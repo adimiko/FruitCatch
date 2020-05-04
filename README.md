@@ -1,9 +1,11 @@
 # Fruit Catch Game
 
 <a href="https://simmer.io/@adimiko/fruitcatch">
-	<p align="center">
-	  <b><font size="100">PLAY</font></b>
-	</p>
+	<font size="100">
+		<p align="center">
+	  		<b>PLAY</b>
+		</p> 
+	</font>
 </a>
 
 ## Table of contents
