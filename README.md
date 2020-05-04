@@ -1,7 +1,9 @@
 # Fruit Catch Game
 
-## [PLAY](https://simmer.io/@adimiko/fruitcatch)
 
+<p align="center">
+  <b>[PLAY](https://simmer.io/@adimiko/fruitcatch)</b><br>
+</p>
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
