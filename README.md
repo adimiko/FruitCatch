@@ -1,7 +1,5 @@
 # [PLAY](https://simmer.io/@adimiko/fruitcatch)
 
-![](https://raw.githubusercontent.com/adimiko/FruitCatch/master/Image.PNG)
-
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
